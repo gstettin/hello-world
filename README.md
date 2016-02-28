@@ -1,3 +1,3 @@
 # hello-world
-hello-world tutorial
+hello-world 
 my name is g. i live in stl mo.
